@@ -1,0 +1,21 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /Users/retina/Desktop/timeout-test/target/scala-2.12/timeout-test_2.12-0.0.1-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/example/timeouttest/HelloWorldServer$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/retina/Desktop/timeout-test/target/scala-2.12/classes/com/example/timeouttest/HelloWorldServer$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	logback.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/retina/Desktop/timeout-test/target/scala-2.12/classes/logback.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/retina/Desktop/timeout-test/target/scala-2.12/classes/com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/example/timeouttest/HelloWorldServer$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/retina/Desktop/timeout-test/target/scala-2.12/classes/com/example/timeouttest/HelloWorldServer$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/example/timeouttest/HelloWorldServer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/retina/Desktop/timeout-test/target/scala-2.12/classes/com/example/timeouttest/HelloWorldServer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/example[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/retina/Desktop/timeout-test/target/scala-2.12/classes/com/example[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/example/timeouttest/HelloWorldService$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/retina/Desktop/timeout-test/target/scala-2.12/classes/com/example/timeouttest/HelloWorldService$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/example/timeouttest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/retina/Desktop/timeout-test/target/scala-2.12/classes/com/example/timeouttest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/example/timeouttest/HelloWorldService.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/retina/Desktop/timeout-test/target/scala-2.12/classes/com/example/timeouttest/HelloWorldService.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
